@@ -1,0 +1,6 @@
+2017-05-23 20:02:55.478 DynamicManager[8368:1624385] Failed to connect (ClickedButton) outlet from (AppDelegate) to (NSButton): missing setter or instance variable
+2017-05-23 20:02:55.479 DynamicManager[8368:1624385] Failed to connect (GetAlgorithm) outlet from (AppDelegate) to (NSComboBox): missing setter or instance variable
+2017-05-23 20:02:55.479 DynamicManager[8368:1624385] Failed to connect (GetMemorySizeInput) outlet from (AppDelegate) to (NSComboBox): missing setter or instance variable
+2017-05-23 20:02:55.479 DynamicManager[8368:1624385] Failed to connect (MemorySizeInput) outlet from (AppDelegate) to (NSComboBox): missing setter or instance variable
+2017-05-23 20:02:55.539 DynamicManager[8368:1624385] Failed to connect (TextField) outlet from (AppDelegate) to (NSTextField): missing setter or instance variable
+2017-05-23 20:02:55.539 DynamicManager[8368:1624385] Failed to connect (text) outlet from (AppDelegate) to (NSTextView): missing setter or instance variable

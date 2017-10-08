@@ -1,0 +1,11 @@
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/bin/Debug/DynamicManager.exe
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/bin/Debug/DynamicManager.pdb
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/actool/partial-info.plist
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/actool/asset-manifest.plist
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/ibtool-manifests/MainMenu.nib
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/ibtool/MainMenu.nib
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/DynamicManager.csprojResolveAssemblyReference.cache
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/DynamicManager.csproj.CoreCompileInputs.cache
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/DynamicManager.exe
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/DynamicManager.pdb

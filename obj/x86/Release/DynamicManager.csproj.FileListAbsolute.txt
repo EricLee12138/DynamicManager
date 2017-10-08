@@ -1,0 +1,10 @@
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/bin/Release/DynamicManager.exe
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/bin/Release/DynamicManager.pdb
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/actool/partial-info.plist
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/actool/asset-manifest.plist
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/actool/bundle/AppIcon.icns
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/ibtool-manifests/MainMenu.nib
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/ibtool/MainMenu.nib
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/DynamicManager.csproj.CoreCompileInputs.cache
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/DynamicManager.exe
+/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Release/DynamicManager.pdb

@@ -1,0 +1,21 @@
+# Version: 3.4.0.33 (d15-2: 3e5ac5ff)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/3.4.0.33/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/3.4.0.33/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/bin/Debug/ \
+	/name:DynamicManager \
+	/profile:Xamarin.Mac \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.12 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/bin/Debug/DynamicManager.exe \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/ericlee/EricLee/VisualStudio/DynamicManager/DynamicManager/obj/x86/Debug/mmp-cache \
